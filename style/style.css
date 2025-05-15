@@ -28,6 +28,7 @@ padding: 0px;
 body{
     background-color: var(--cor01);
     font-family: var(--fonte-padrao);
+    background-image: url();
 }
 
 main p{
