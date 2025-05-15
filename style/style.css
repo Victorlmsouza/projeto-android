@@ -26,9 +26,10 @@ padding: 0px;
 }
 
 body{
-    background-color: var(--cor01);
     font-family: var(--fonte-padrao);
-    background-image: url();
+    background-image: url('../imagens/adroid-img.png');
+    background-size: 310px;
+    background-repeat: repeat;
 }
 
 main p{
